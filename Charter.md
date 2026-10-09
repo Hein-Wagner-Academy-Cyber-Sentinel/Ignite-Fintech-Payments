@@ -1,8 +1,11 @@
 Project Charter
+
 Project Name
 Ignite Fintech Payments Cybersecurity Risk Assessment Project
+
 Project Purpose
 To assess and enhance the cybersecurity posture of Ignite Fintech Payments by identifying risks affecting customer information, payment systems, and critical business operations, while ensuring regulatory compliance and supporting secure business growth.
+
 Business Background
 Ignite Fintech Payments is a digital-only fintech startup operating in the digital payments sector. The company provides API-driven payment gateway services and mobile-first transaction processing solutions for online merchants and e-commerce platforms.
 As the business experiences rapid growth in transaction volumes and merchant acquisitions, it faces increasing cybersecurity challenges related to data protection, system availability, infrastructure scalability, and regulatory compliance. The organization must protect sensitive customer and merchant information while maintaining reliable and secure payment services.
@@ -15,6 +18,7 @@ Project Objectives
 •	Review compliance obligations under POPIA, FICA, and PCI-DSS.
 •	Recommend security controls to reduce identified risks.
 •	Support business growth through secure and resilient operations.
+
 In Scope
 •	Customer Personally Identifiable Information (PII)
 •	Merchant Personally Identifiable Information (PII)
@@ -27,6 +31,7 @@ In Scope
 •	POPIA compliance considerations
 •	PCI-DSS security requirements
 •	Risks associated with rapid business scaling
+
 Out of Scope
 •	Physical security controls
 •	Financial auditing activities
@@ -40,10 +45,12 @@ Critical Assets
 •	API services
 •	Authentication systems
 •	Cloud infrastructure
+
 Regulatory and Compliance Requirements
 •	Protection of Personal Information Act (POPIA)
 •	Financial Intelligence Centre Act (FICA)
 •	Payment Card Industry Data Security Standard (PCI-DSS)
+
 Key Business Risks
 •	Unauthorized disclosure of customer or merchant PII
 •	Data breaches involving financial information
@@ -54,6 +61,7 @@ Key Business Risks
 •	Weak access control and authentication mechanisms
 •	Security vulnerabilities introduced through rapid feature deployment
 •	Regulatory non-compliance with POPIA, FICA, or PCI-DSS requirements
+
 Deliverables
 •	Business Profile
 •	Project Charter
@@ -62,10 +70,13 @@ Deliverables
 •	Risk Assessment
 •	Security Recommendations
 •	Final Project Report
+
 Team Members
 •	Olwethu Nyatela
 •	Chantey Steadman
+
 Roles will be rotated during future project phases to ensure equal participation, knowledge sharing, and skill development among team members.
+
 Success Criteria
 •	Critical assets have been identified and documented.
 •	Key threats and vulnerabilities have been assessed.
