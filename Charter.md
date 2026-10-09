@@ -6,7 +6,6 @@ Ignite Fintech Payments Cybersecurity Risk Assessment Project
 
 
 Project Purpose
-
 To assess and enhance the cybersecurity posture of Ignite Fintech Payments by identifying risks affecting customer information, payment systems, and critical business operations, while ensuring regulatory compliance and supporting secure business growth.
 
 
