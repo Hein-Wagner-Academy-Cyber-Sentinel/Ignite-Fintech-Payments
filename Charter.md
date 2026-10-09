@@ -16,11 +16,17 @@ As the business experiences rapid growth in transaction volumes and merchant acq
 Project Objectives
 
 •	Identify critical information assets and business systems.
+
 •	Develop a Threat Model Version 0 for Ignite Fintech Payments.
+
 •	Assess risks to customer and merchant information.
+
 •	Evaluate threats to payment processing systems and APIs.
+
 •	Review compliance obligations under POPIA, FICA, and PCI-DSS.
+
 •	Recommend security controls to reduce identified risks.
+
 •	Support business growth through secure and resilient operations.
 
 In Scope
