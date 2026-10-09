@@ -1,16 +1,20 @@
 Project Charter
 
 Project Name
+
 Ignite Fintech Payments Cybersecurity Risk Assessment Project
 
 Project Purpose
+
 To assess and enhance the cybersecurity posture of Ignite Fintech Payments by identifying risks affecting customer information, payment systems, and critical business operations, while ensuring regulatory compliance and supporting secure business growth.
 
 Business Background
+
 Ignite Fintech Payments is a digital-only fintech startup operating in the digital payments sector. The company provides API-driven payment gateway services and mobile-first transaction processing solutions for online merchants and e-commerce platforms.
 As the business experiences rapid growth in transaction volumes and merchant acquisitions, it faces increasing cybersecurity challenges related to data protection, system availability, infrastructure scalability, and regulatory compliance. The organization must protect sensitive customer and merchant information while maintaining reliable and secure payment services.
 
 Project Objectives
+
 •	Identify critical information assets and business systems.
 •	Develop a Threat Model Version 0 for Ignite Fintech Payments.
 •	Assess risks to customer and merchant information.
@@ -20,6 +24,7 @@ Project Objectives
 •	Support business growth through secure and resilient operations.
 
 In Scope
+
 •	Customer Personally Identifiable Information (PII)
 •	Merchant Personally Identifiable Information (PII)
 •	Payment transaction processing systems
@@ -33,6 +38,7 @@ In Scope
 •	Risks associated with rapid business scaling
 
 Out of Scope
+
 •	Physical security controls
 •	Financial auditing activities
 •	Third-party systems not directly managed by Ignite Fintech Payments
@@ -47,11 +53,13 @@ Critical Assets
 •	Cloud infrastructure
 
 Regulatory and Compliance Requirements
+
 •	Protection of Personal Information Act (POPIA)
 •	Financial Intelligence Centre Act (FICA)
 •	Payment Card Industry Data Security Standard (PCI-DSS)
 
 Key Business Risks
+
 •	Unauthorized disclosure of customer or merchant PII
 •	Data breaches involving financial information
 •	Payment transaction manipulation or fraud
@@ -63,6 +71,7 @@ Key Business Risks
 •	Regulatory non-compliance with POPIA, FICA, or PCI-DSS requirements
 
 Deliverables
+
 •	Business Profile
 •	Project Charter
 •	Role Assignment Document
@@ -72,12 +81,14 @@ Deliverables
 •	Final Project Report
 
 Team Members
+
 •	Olwethu Nyatela
 •	Chantey Steadman
 
 Roles will be rotated during future project phases to ensure equal participation, knowledge sharing, and skill development among team members.
 
 Success Criteria
+
 •	Critical assets have been identified and documented.
 •	Key threats and vulnerabilities have been assessed.
 •	Regulatory and compliance obligations have been addressed.
