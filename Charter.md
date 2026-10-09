@@ -31,7 +31,6 @@ Project Objectives
 
 •	Support business growth through secure and resilient operations.
 
-
 In Scope
 
 •	Customer Personally Identifiable Information (PII)
@@ -55,7 +54,6 @@ In Scope
 •	PCI-DSS security requirements
 
 •	Risks associated with rapid business scaling
-
 
 Out of Scope
 
@@ -82,7 +80,6 @@ Critical Assets
 
 •	Cloud infrastructure
 
-
 Regulatory and Compliance Requirements
 
 •	Protection of Personal Information Act (POPIA)
@@ -90,7 +87,6 @@ Regulatory and Compliance Requirements
 •	Financial Intelligence Centre Act (FICA)
 
 •	Payment Card Industry Data Security Standard (PCI-DSS)
-
 
 Key Business Risks
 
@@ -112,7 +108,6 @@ Key Business Risks
 
 •	Regulatory non-compliance with POPIA, FICA, or PCI-DSS requirements
 
-
 Deliverables
 
 •	Business Profile
@@ -129,7 +124,6 @@ Deliverables
 
 •	Final Project Report
 
-
 Team Members
 
 •	Olwethu Nyatela
@@ -137,7 +131,6 @@ Team Members
 •	Chantey Steadman
 
 Roles will be rotated during future project phases to ensure equal participation, knowledge sharing, and skill development among team members.
-
 
 Success Criteria
 
