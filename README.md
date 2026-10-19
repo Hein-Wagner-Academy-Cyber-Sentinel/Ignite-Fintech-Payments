@@ -11,9 +11,9 @@ Replace the placeholders below in your first Friday (Phase 1), then commit.
 ## Our pair
 
 - **Persona:** Ignite Fintech Payments
-- **Student A:**Chante Steadman
-- **Student B:** Olwethu Nyathela
-- **The platform in one paragraph:Ignite Fintech Payments is a fictional South African digital only payments startup that provides secure online payments services for individuals and businessess. The platform is designed to process financial transactions quickly,reliably and securely while protecting sensitive customer information. This project is being built to support a growing customer base and increasing transactio volumes. It is important to the business because customer trust depends on secure transactions,system availability,data protection, and compliance with POPIA requirements. 
+- **Student A:** Chante Steadman
+- **Student B:** Olwethu Nyatela
+- **The platform in one paragraph**: Ignite Fintech Payments is a fictional South African digital only payments startup that provides secure online payments services for individuals and businesses. The platform is designed to process financial transactions quickly,reliably and securely while protecting sensitive customer information. This project is being built to support a growing customer base and increasing transaction volumes. It is important to the business because customer trust depends on secure transactions,system availability,data protection, and compliance with POPIA requirements. 
 
 ## How this repository is organised
 
