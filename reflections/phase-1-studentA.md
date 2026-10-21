@@ -1,4 +1,6 @@
-# Chante ReflectionPhase 1 reflection — Student A
+# 
+
+# Phase 1 reflection — Student A
 
 *What did I do? What did I find hard? What would I do differently? What do I understand now that I did not before?*
 
@@ -6,7 +8,7 @@
 
 
 
-
+# Chante Reflection
 
 
 
@@ -17,7 +19,9 @@ I was quality control so this meant I had to check everything before it got push
 
 We also created a file share as well as a WhatsApp group. This helps us with communicating and sharing files no matter where we are.
 
+What would I do differently?
+
+I will spend mor time making sure I understand the commands I am using when working with committing and pushing things to GitHub. I will also try to manage my time better and not try to do everything at once. And I will set out a clear plan for myself and set up a plan and a checklist that my team mate and i can use to make sure we cover everything and I'll do my best to be more thorough when reviewing work.
+
 Overall phase 1 was not that complicated. I learned that organization and time management is very important.
-
-
 
