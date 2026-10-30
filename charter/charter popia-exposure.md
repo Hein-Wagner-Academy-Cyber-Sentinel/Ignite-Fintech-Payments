@@ -85,11 +85,11 @@ Section 22 Breach Notification Protocol
 In terms of Section 22 of POPIA, where there are reasonable grounds to believe that the personal information of a data subject has been accessed or acquired by an unauthorized person, Ignite Fintech Payments must immediately execute breach notification protocols:
 
 
+
 •	To Whom:
 
-1.	The Information Regulator: Formal notification must be submitted via the Regulator's eServices portal.
-
-2.	The Affected Data Subjects: Every individual whose personal information has been compromised, unless their identity cannot be established.
+1. The Information Regulator: Formal notification must be submitted via the Regulator's eServices portal.
+2. The Affected Data Subjects: Every individual whose personal information has been compromised, unless their identity cannot be established.
 
 •	How Soon: The notification must be given as soon as reasonably possible after the discovery of the compromise.
 
@@ -135,4 +135,76 @@ These controls help ensure that personal and financial information remains confi
 
 Conclusion
 For Ignite Fintech Payments, the most important information protected by POPIA is customer identity data, contact information, banking information, payment card information, transaction records, and account authentication data. Protecting this information is essential to prevent fraud, maintain customer trust, and ensure compliance with South African privacy legislation.
+
+
+
+Sources Referenced in the Document
+
+Section 14: Retention and Restriction of Records of Personal Information
+
+
+
+Used for: Data Retention Categories, Periods and Rationale
+
+
+
+Direct link to Section 14:
+
+&#x20;https://www.saflii.org/za/legis/consol\_act/popia4o2013399/#14
+
+
+
+Section 22: Notification of Security Compromises
+
+
+
+Used for: Section 22 Breach Notification Protocol
+
+
+
+Direct link to Section 22:
+
+&#x20;https://www.saflii.org/za/legis/consol\_act/popia4o2013399/#22
+
+
+
+Section 26: Prohibition on Processing Special Personal Information
+
+
+
+Used for: Special Personal Information Stance
+
+
+
+Direct link to Section 26:
+
+&#x20;https://www.saflii.org/za/legis/consol\_act/popia4o2013399/#26
+
+
+
+Information Regulator South Africa
+
+
+
+Used for: Compliance guidance and breach reporting
+
+
+
+Link:
+
+&#x20;https://inforegulator.org.za/
+
+
+
+Information Regulator eServices Portal
+
+
+
+Used for: Submitting breach notifications
+
+
+
+Link:
+
+&#x20;https://eservices.inforegulator.org.za/
 
